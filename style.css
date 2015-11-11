@@ -1,0 +1,12 @@
+
+
+/*blue #5b9bd5*/
+/*yellow #ffff00*/
+
+.first-square, .second-square{
+	background: #ffff00;
+	width:2.5em;
+	height:2.5em;
+	border: solid 1.25em #5b9bd5;
+	margin-bottom:1em;
+}
